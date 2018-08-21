@@ -3,5 +3,3 @@ git is changed.
 git is a distributed version control tool.
 git tracks changes.
 my stupid boss is still prefer SVN.
-Creating a new branch is quick
-
